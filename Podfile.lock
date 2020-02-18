@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Kingfisher (5.12.0):
+    - Kingfisher/Core (= 5.12.0)
+  - Kingfisher/Core (5.12.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Kingfisher: dc6e0f53bb5b12c3e75bedb0e01bbd7a640eea69
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 223bea3a0a324098f6d120fd3b55f2c656cb32fc
+
+COCOAPODS: 1.8.4
